@@ -46,4 +46,16 @@
 		}
 	}
 
+
+
+
+	/**
+	 * strtoupper: 将字符串转为大写;
+	 * is_array:   检测变量是否为数组;
+	 * count:      计算数组中的单元数目或对象中的属性个数;
+	 * http_build_query: 使用给出的关联数组生成一个经过 URL-encode 的请求字符串
+	 * stream_context_create: ?
+	 * file_get_contents: ?
+	 * json_decode: 对 JSON 格式的字符串进行解码;
+	 */
  ?>
